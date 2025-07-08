@@ -34,7 +34,7 @@ We are not liable if you get a surprise bill!
 If you just can't handle reading documentation and want to dive right in ...
 
 ```sh
-composer require cheesegrits/filament-google-maps "^3.0"
+composer require osenco/filament-google-maps
 ```
 
 ... then follow these instructions to add a computed attribute to any  model(s) that will use these components (which
